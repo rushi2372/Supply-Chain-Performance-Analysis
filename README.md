@@ -41,7 +41,7 @@ A Beauty & Personal Care company operates its supply chain across **5 major Indi
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 Supply-Chain-Performance-Analysis/
