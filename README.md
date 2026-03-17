@@ -8,7 +8,7 @@
 
 ---
 
-## 📌 Problem Statement
+## 📌 Problem Statement 
 
 A Beauty & Personal Care company operates its supply chain across **5 major Indian cities** (Mumbai, Delhi, Kolkata, Bangalore, Chennai) with **5 suppliers** managing **100 SKUs** across Haircare, Skincare, and Cosmetics categories.
 
